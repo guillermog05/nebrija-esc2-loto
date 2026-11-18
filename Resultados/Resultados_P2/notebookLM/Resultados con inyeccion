@@ -1,0 +1,7 @@
+"**Material escogido:** **PLA (Ácido Poliláctico)**
+
+**Justificación técnica:**
+
+El **PLA** se establece como la única opción posible bajo el supuesto operativo de fabricación inmediata *in situ* (impresión 3D) a bordo del buque militar, descartando el vidrio por su baja tensión admisible de trabajo (6 a 25 MPa)[1] y su fragilidad extrema ante fisuras[2].
+
+Sin embargo, desde el rigor del cálculo resistente de tensiones y fatiga, los números no satisfacen las exigencias operativas: el PLA cuenta con una resistencia a tracción de tan solo **45 MPa**[3], sufre pérdida de propiedades mecánicas por absorción de humedad ambiental[4] y padece calentamiento interno por su naturaleza viscoelástica ante cargas cíclicas de fatiga, lo que degrada rápidamente su vida útil[5]. En consecuencia, para manipular de forma segura las **3000 ± 500 kg** de munición sin sufrir un fallo estructural prematuro, la pieza requeriría un rediseño que incremente masivamente su sección transversal respecto a la geometría contemplada en el plano[6]."
